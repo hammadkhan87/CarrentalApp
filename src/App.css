@@ -44,7 +44,7 @@ body {
 
 @layer utilities {
   .centered-row {
-    @apply flex items-center justify-center;
+    @apply flex items-center ;
   }
 
   .mirror-x {
